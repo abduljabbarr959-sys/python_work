@@ -1,0 +1,1 @@
+print('Franz Kafka once said that,\n"A book must be the axe for the frozen sea within us"')
